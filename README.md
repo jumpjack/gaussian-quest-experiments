@@ -11,7 +11,7 @@ Convert your SPZ to PLY with [Storysplat](https://storysplat.com/editor), cleanu
 - [Scaniverse official](https://scaniverse.8thwall.app/model-viewer/) (SPZ, PLY)
 - [Wakufactory VR](https://wakufactory.jp/wxr/splats/splatview.html) (AR/VR, Quest compatible; also **loads remote urls**, just append link after "?") (PLY, SPZ, SPLAT, KSPLAT) ([Source code](https://github.com/mkkellogg/GaussianSplats3D))
 - [BabylonJS sandobx](https://sandbox.babylonjs.com/) (PLY, SPZ, SPLAT)
-- [Playcanvas](https://playcanvas.com/model-viewer) (PLY)
+- [Playcanvas](https://playcanvas.com/model-viewer) (PLY) (also **loads remote urls**)
 - [Niujinshuchong](https://niujinshuchong.github.io/mip-splatting-demo/index.html) (PLY, SPLAT, KSPLAT) (also converter)
 - [webgl-gaussian-splatting.vercel.ap](https://webgl-gaussian-splatting.vercel.app/)p ([Source code](https://github.com/kishimisu/Gaussian-Splatting-WebGL))
 - [Storysplat](https://storysplat.com/editor) (PLY, SPZ, SPLAT) (editor and converter, but it also **loads from remote urls**, look in "File" menu)
